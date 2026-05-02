@@ -9,6 +9,6 @@ Simple calculator project using C language.
 
 ## Team Roles
 - Phoebe: Addition
-- : Subtraction
+- Phoebe: Subtraction
 - Kayriz: Multiplication
 - Kayriz: Division
